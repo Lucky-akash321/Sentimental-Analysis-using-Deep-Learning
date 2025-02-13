@@ -149,6 +149,8 @@ Deep Learning models for sentiment analysis include:
 
 ---
 
+![](https://github.com/Lucky-akash321/Sentimental-Analysis-using-Deep-Learning/blob/main/SADP.png)
+
 ## Conclusion
 Deep learning-powered **Sentiment Analysis** enables businesses to **analyze customer emotions, improve decision-making, and automate responses**. This guide covers the entire pipeline, from **data collection to deployment**, ensuring a robust and scalable solution.
 
