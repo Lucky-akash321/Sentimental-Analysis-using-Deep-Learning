@@ -1,5 +1,7 @@
 # Sentiment Analysis Using Deep Learning: A Step-by-Step Guide
 
+![](https://github.com/Lucky-akash321/Sentimental-Analysis-using-Deep-Learning/blob/main/DP.png)
+
 ## Introduction
 **Sentiment Analysis** is a Natural Language Processing (NLP) task that determines the **emotional tone** of a text (positive, negative, or neutral). Deep Learning models such as **Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Gated Recurrent Units (GRU), CNNs, and Transformer-based models (BERT, GPT)** provide high accuracy in sentiment classification.
 
